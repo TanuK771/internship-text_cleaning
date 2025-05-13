@@ -1,0 +1,68 @@
+﻿INTERNSHIP REPORT
+
+
+Intern Name: Tanupriya Kaur
+Task Title: Text Preprocessing and Cleaning in Python
+Date: 13-05-2025
+Internship Role: Data Science Intern
+Company Name: NULLCLASS EDTECH PRIVATE LIMITED
+
+
+Introduction
+
+As part of my internship in the field of data science, my first hands-on task was to work with raw textual data. The goal was to clean and prepare the data in a form that is usable for further machine learning and Natural Language Processing (NLP) tasks like embedding generation. This report documents my learning journey and implementation experience for the given assignment.
+
+
+Background
+
+Text data in its raw form is often messy and inconsistent. For machines to understand and analyze it effectively, it must be cleaned and structured. The task involved developing a Python script that can:
+* Convert text to lowercase
+* Remove special characters, and
+* Tokenize the text into words.
+This foundational task helped me understand how crucial preprocessing is before diving into advanced NLP tasks.
+
+Learning Objectives
+
+* Understand the importance of text preprocessing in NLP.
+* Learn how to write clean and readable Python code.
+* Get familiar with regular expressions (re module) and basic string operations.
+* Develop a beginner-friendly and reusable Python function.
+
+Activities and Tasks
+
+* Researched standard text preprocessing steps.
+* Learned how to use regular expressions in Python.
+* Developed a Python function to clean and tokenize text.
+* Tested the function with multiple text inputs.
+
+Skills and Competencies
+
+* Python programming
+* Regular Expressions (re.sub)
+* String manipulation
+* Tokenization
+
+
+
+Feedback and Evidence
+
+Source code file submitted along with this report and feedback is yet to be received by the mentor.
+
+Challenges and Solutions
+
+Challenge:
+
+ Initially, I struggled with regular expressions and cleaning the text correctly without removing essential elements like numbers or spaces.
+
+Solution:
+
+ I read documentation, watched short tutorials, and practiced with the re module until I understood how to craft patterns like [^a-z0-9\s]. I also tested my code on different sentences to make sure it was working universally.
+
+Outcomes and Impact
+
+* I now have a strong understanding of text preprocessing, which is essential for any NLP project.
+* Gained confidence in using Python for real-world tasks.
+
+Conclusion
+
+This first internship task was a great introduction to how raw data is cleaned and structured in the real world. Not only did I strengthen my Python skills, but I also learned the importance of writing clean, maintainable code.
